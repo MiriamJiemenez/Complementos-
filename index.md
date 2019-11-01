@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Esta es mi ágina de teoría de Ramsey
+El principio de la teoria de Ramsey es que el desorden completo es imposible. Es decir, en cualquier desorden suficientemente grande hay partes ordenadas
 
 You can use the [editor on GitHub](https://github.com/MiriamJiemenez/Complementos-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
